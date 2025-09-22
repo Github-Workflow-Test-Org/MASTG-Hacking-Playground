@@ -4,7 +4,7 @@
 
 Welcome to the MSTG Playground. This is a collection of iOS and Android mobile apps, that are intentionally build insecure. These apps are used as examples to demonstrate different vulnerabilities explained in the the [OWASP Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg/ "OWASP MSTG"). The current release of the OWASP Mobile Security Testing Guide (MSTG) can be found [here](https://github.com/OWASP/owasp-mstg/releases "MSTG Release").
 
-In order to give practical guidance to developers, security researches and penetration testers, a hacking playground was created that consists of different mobile App’s that contain different vulnerabilities that map to the MSTG test cases (there is no full coverage of all test cases, but you are invited to share your apps or extend the existing ones ;-)). This has two advantages:
+In order to give practical guidance to developers, security researches and penetration testers, a hacking playground was created that consists of different mobile App’s that contain different vulnerabilities that map to the MSTG test cases (there is no full coverage of all test cases, but you are invited to share your apps or extend the existing ones ;-)). This has two advantages:sd
 
 - A developer can identify vulnerable code in the provided App’s and can see the implications and risks if such patterns are used and can look for the best practices in the MSTG to mitigate the vulnerabilities.
 - Penetration testers / security researchers can identify bad practices, dangerous methods and classes they should look for when assessing a Mobile App and can gain more knowledge through the information provided in the MSTG.
